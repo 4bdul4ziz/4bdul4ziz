@@ -12,13 +12,11 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
+
 <img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/>
 
-  I'm a sophomore year undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love stepping foot on new technological territories ✨. I have a passion for reading & solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
-=======
   I'm 19 years old and a sophomore undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
->>>>>>> 5a251f0ab0af3b6b28c7acc8f94fca3092a673c9
+
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
