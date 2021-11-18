@@ -56,16 +56,16 @@
 <p align="center">
   
 <a href="https://discord.com/channels/@me/729424807296499822">
- <img src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=flat-square-dark&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
+ <img height="30" src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=flat-square-dark&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
 </a>
 <a href="mailto: bb.abdulaziz@gmail.com">
- <img src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=flat-square-dark&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
+ <img height="30" src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=flat-square-dark&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/">
- <img src="https://img.shields.io/badge/-AbdulAziz-blue?style=flat-square-dark&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
+ <img height="30" src="https://img.shields.io/badge/-AbdulAziz-blue?style=flat-square-dark&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
 </a>
  <a href="https://twitter.com/AerialUni">
- <img src="https://img.shields.io/badge/-AerialUni-blue?style=flat-square-dark&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <img height="30" src="https://img.shields.io/badge/-AerialUni-blue?style=flat-square-dark&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
 </p>
 
