@@ -47,7 +47,9 @@
 
 <p align="center">
   
-
+<a href="https://discord.com/channels/@me/729424807296499822">
+ <img src="https://img.shields.io/badge/-Unicorn✨-black?style=flat-square&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
+</a>
 <a href="mailto: bb.abdulaziz@gmail.com">
  <img src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
 </a>
