@@ -23,32 +23,32 @@
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header_.png" />
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square-dark&logo=python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square-dark&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square-dark&logo=c"/>
-<img src="https://img.shields.io/badge/-R-blue?style=flat-square-dark&logo=r"/>
-<img src="https://img.shields.io/badge/-GoLang-lightblue?style=flat-square-dark&logo=go"/>
-<img src="https://img.shields.io/badge/-Swift-darkred?style=flat-square-dark&logo=swift"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square-dark&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PHP-purple?style=flat-square-dark&logo=php"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square-dark&logo=css3"/>
-<img src="https://img.shields.io/badge/-Sass-pink?style=flat-square-dark&logo=sass"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square-dark&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square-dark&logo=heroku"/>
-<img src="https://img.shields.io/badge/-Discord.py-black?style=flat-square-dark&logo=discord"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square-dark&logo=javascript"/>
-<img src="https://img.shields.io/badge/-GoogleCloud-white?style=flat-square-dark&logo=GoogleCloud"/>
-<img src="https://img.shields.io/badge/-Azure-blue?style=flat-square-dark&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat-square-dark&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square-dark&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square-dark&logo=django"/>
-<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square-dark&logo=mysql"/>
-<img src="https://img.shields.io/badge/-OracleSQL-red?style=flat-square-dark&logo=oracle"/>
-<img src="https://img.shields.io/badge/-MarkDown-black?style=flat-square-dark&logo=markdown"/>
-<img src="https://img.shields.io/badge/-Arduino-turquoise?style=flat-square-dark&logo=arduino"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square-dark&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square-dark&logo=github"/>
-<img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square-dark&logo=visualstudiocode"/>
+ <img height="30" src="https://img.shields.io/badge/-Python-yellow?style=flat-square-dark&logo=python"/>
+<img height="30" src="https://img.shields.io/badge/C-00599C?style=flat-square-dark&logo=c&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/-C++-00599C?style=flat-square-dark&logo=c"/>
+<img height="30" src="https://img.shields.io/badge/-R-blue?style=flat-square-dark&logo=r"/>
+<img height="30" src="https://img.shields.io/badge/-GoLang-lightblue?style=flat-square-dark&logo=go"/>
+<img height="30" src="https://img.shields.io/badge/-Swift-darkred?style=flat-square-dark&logo=swift"/>
+<img height="30" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square-dark&logo=html5&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/-PHP-purple?style=flat-square-dark&logo=php"/>
+<img height="30" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square-dark&logo=css3"/>
+<img height="30" src="https://img.shields.io/badge/-Sass-pink?style=flat-square-dark&logo=sass"/>
+<img height="30" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square-dark&logo=bootstrap"/>
+<img height="30" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square-dark&logo=heroku"/>
+<img height="30" src="https://img.shields.io/badge/-Discord.py-black?style=flat-square-dark&logo=discord"/>
+<img height="30" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square-dark&logo=javascript"/>
+<img height="30" src="https://img.shields.io/badge/-GoogleCloud-white?style=flat-square-dark&logo=GoogleCloud"/>
+<img height="30" src="https://img.shields.io/badge/-Azure-blue?style=flat-square-dark&logo=microsoftazure"/>
+<img height="30" src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat-square-dark&logo=Node.js"/>
+<img height="30" src="https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square-dark&logo=mongodb"/>
+<img height="30" src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square-dark&logo=django"/>
+<img height="30" src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square-dark&logo=mysql"/>
+<img height="30" src="https://img.shields.io/badge/-OracleSQL-red?style=flat-square-dark&logo=oracle"/>
+<img height="30" src="https://img.shields.io/badge/-MarkDown-black?style=flat-square-dark&logo=markdown"/>
+<img height="30" src="https://img.shields.io/badge/-Arduino-turquoise?style=flat-square-dark&logo=arduino"/>
+<img height="30" src="https://img.shields.io/badge/-Git-black?style=flat-square-dark&logo=git"/>
+<img height="30" src="https://img.shields.io/badge/-GitHub-black?style=flat-square-dark&logo=github"/>
+<img height="30" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square-dark&logo=visualstudiocode"/>
 </p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
