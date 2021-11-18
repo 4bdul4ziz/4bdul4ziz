@@ -113,6 +113,11 @@
     <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
  <!----- GitHub Stats - Abdul  ------>
 
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="5000px">
