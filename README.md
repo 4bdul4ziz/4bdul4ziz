@@ -36,7 +36,7 @@
 <img height="30" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square-dark&logo=bootstrap"/>
 <img height="30" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square-dark&logo=heroku"/>
 <img height="30" src="https://img.shields.io/badge/-Discord.py-black?style=flat-square-dark&logo=discord"/>
-<img height="30" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square-dark&logo=javascript"/>
+<img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
 <img height="30" src="https://img.shields.io/badge/-GoogleCloud-white?style=flat-square-dark&logo=GoogleCloud"/>
 <img height="30" src="https://img.shields.io/badge/-Azure-blue?style=flat-square-dark&logo=microsoftazure"/>
 <img height="30" src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat-square-dark&logo=Node.js"/>
