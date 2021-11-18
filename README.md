@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I'm a sophomore year undergraduate student pursuing Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies and talking to different people 👨🏻‍💻. I'm currently achieving the sigma male grindset.
+  I'm a sophomore year undergraduate student pursuing Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love stepping foot on new technological territories ✨. I have a passion for reading & solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
