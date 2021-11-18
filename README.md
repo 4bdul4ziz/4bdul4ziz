@@ -12,9 +12,13 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
 <img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/>
 
   I'm a sophomore year undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love stepping foot on new technological territories ✨. I have a passion for reading & solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
+=======
+  I'm 19 years old and a sophomore undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
+>>>>>>> 5a251f0ab0af3b6b28c7acc8f94fca3092a673c9
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
@@ -25,6 +29,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
+<img src="https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go"/>
 <img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
@@ -41,6 +46,7 @@
 <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-OracleSQL-black?style=flat-square&logo=oracle"/>
+<img src="https://img.shields.io/badge/-MarkDown-black?style=flat-square&logo=markdown"/>
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
