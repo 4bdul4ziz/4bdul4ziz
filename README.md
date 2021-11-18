@@ -16,6 +16,7 @@
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header_.png" />
 
 <p align="center">
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
