@@ -23,32 +23,32 @@
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header_.png" />
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
-<img src="https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go"/>
-<img src="https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=sass"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-Discord.py-black?style=flat-square&logo=discord"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-GoogleCloud-black?style=flat-square&logo=GoogleCloud"/>
-<img src="https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-OracleSQL-black?style=flat-square&logo=oracle"/>
-<img src="https://img.shields.io/badge/-MarkDown-black?style=flat-square&logo=markdown"/>
-<img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode"/>
+ <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square-dark&logo=python"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square-dark&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square-dark&logo=c"/>
+<img src="https://img.shields.io/badge/-R-blue?style=flat-square-dark&logo=r"/>
+<img src="https://img.shields.io/badge/-GoLang-lightblue?style=flat-square-dark&logo=go"/>
+<img src="https://img.shields.io/badge/-Swift-darkred?style=flat-square-dark&logo=swift"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square-dark&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PHP-purple?style=flat-square-dark&logo=php"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square-dark&logo=css3"/>
+<img src="https://img.shields.io/badge/-Sass-pink?style=flat-square-dark&logo=sass"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square-dark&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square-dark&logo=heroku"/>
+<img src="https://img.shields.io/badge/-Discord.py-black?style=flat-square-dark&logo=discord"/>
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square-dark&logo=javascript"/>
+<img src="https://img.shields.io/badge/-GoogleCloud-white?style=flat-square-dark&logo=GoogleCloud"/>
+<img src="https://img.shields.io/badge/-Azure-blue?style=flat-square-dark&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat-square-dark&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square-dark&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square-dark&logo=django"/>
+<img src="https://img.shields.io/badge/-MySQL-lightblue?style=flat-square-dark&logo=mysql"/>
+<img src="https://img.shields.io/badge/-OracleSQL-red?style=flat-square-dark&logo=oracle"/>
+<img src="https://img.shields.io/badge/-MarkDown-black?style=flat-square-dark&logo=markdown"/>
+<img src="https://img.shields.io/badge/-Arduino-turquoise?style=flat-square-dark&logo=arduino"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square-dark&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square-dark&logo=github"/>
+<img src="https://img.shields.io/badge/-VSCode-blue?style=flat-square-dark&logo=visualstudiocode"/>
 </p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
@@ -56,16 +56,16 @@
 <p align="center">
   
 <a href="https://discord.com/channels/@me/729424807296499822">
- <img src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=flat-square&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
+ <img src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=flat-square-dark&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
 </a>
 <a href="mailto: bb.abdulaziz@gmail.com">
- <img src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
+ <img src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=flat-square-dark&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/">
- <img src="https://img.shields.io/badge/-AbdulAziz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
+ <img src="https://img.shields.io/badge/-AbdulAziz-blue?style=flat-square-dark&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
 </a>
  <a href="https://twitter.com/AerialUni">
- <img src="https://img.shields.io/badge/-AerialUni-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <img src="https://img.shields.io/badge/-AerialUni-blue?style=flat-square-dark&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
 </p>
 
