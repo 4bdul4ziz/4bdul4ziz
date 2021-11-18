@@ -51,7 +51,7 @@
 <img height="30" src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach Me On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
   
@@ -95,7 +95,7 @@
 </table>
 <table> 
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=90% height=auto alt="1"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
 </table>
