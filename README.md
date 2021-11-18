@@ -12,6 +12,8 @@
 </p>
 
 <p align="center">
+<img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/>
+
   I'm a sophomore year undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love stepping foot on new technological territories ✨. I have a passion for reading & solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
 </p>  
 
