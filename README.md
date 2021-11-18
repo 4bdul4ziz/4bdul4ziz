@@ -85,7 +85,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=4bdul4ziz&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&hide=shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
