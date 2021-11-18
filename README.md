@@ -48,6 +48,7 @@
 <img src="https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstudiocode"/>
 </p>
 
 <h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
