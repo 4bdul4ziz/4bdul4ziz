@@ -73,27 +73,47 @@
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
+ <!----- Contribution Stats - Abdul  ------>
+
 <p align="center">
   <img src="https://github.com/4bdul4ziz/4bdul4ziz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+ <!----- Contribution Stats - Abdul  ------>
 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- 
-<br>
+ <!----- GitHub Stats - Abdul  ------>
+<table>
+  <tr>
+     <p align="center">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
+        <img src="https://github-profile-trophy.vercel.app/?username=4bdul4ziz&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
+       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="130px">
+    </p>
+  </tr>
+</table>
+<table> 
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
+<table>
+  <tr>
+    <p align="center">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="140px">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="preyash-tryin-to-code">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
+    </p>
+  </tr>
+</table>
+<table> 
+  <tr>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+   </tr>
+</table>
+ <!----- GitHub Stats - Abdul  ------>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=4bdul4ziz&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&hide=shaderlab,kotlin,hlsl&theme=radical">
-</p>
-
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=4bdul4ziz&theme=redical">
-</p> 
-<hr>
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif">
 <p align="center">Enjoy your stay!</p>
