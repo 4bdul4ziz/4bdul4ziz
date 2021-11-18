@@ -102,7 +102,7 @@
 <table>
   <tr>
     <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="140px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat.gif" width="140px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="preyash-tryin-to-code">
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
     </p>
@@ -115,5 +115,5 @@
 </table>
  <!----- GitHub Stats - Abdul  ------>
 
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif">
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="5000px">
 <p align="center">Enjoy your stay!</p>
