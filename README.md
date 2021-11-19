@@ -115,7 +115,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg)](https://wakatime.com/@f713749e-ecda-431c-be7b-3d4410ef3688)
 <!--END_SECTION:waka-->
 
  <!----- GitHub Stats - Abdul  ------>
