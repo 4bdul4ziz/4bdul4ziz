@@ -103,7 +103,7 @@
   <tr>
     <p align="center">
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat.gif" width="140px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="preyash-tryin-to-code">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="4bdul4ziz">
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
     </p>
   </tr>
@@ -115,7 +115,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-<p align="center"><a href="https://wakatime.com/@f713749e-ecda-431c-be7b-3d4410ef3688"<img height = "30" src="https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge"/></a>
+<p align="center"><img height = "30" src="[![wakatime](https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge)](https://wakatime.com/@f713749e-ecda-431c-be7b-3d4410ef3688)"/>
 </p>
 <!--END_SECTION:waka-->
 
