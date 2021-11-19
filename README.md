@@ -115,7 +115,8 @@
 </table>
 
 <!--START_SECTION:waka-->
-<p align="center"><img height = "30" src="[![wakatime](https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge)](https://wakatime.com/@f713749e-ecda-431c-be7b-3d4410ef3688)"/>
+<p align="center">
+ [![wakatime](https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge)](https://wakatime.com/@f713749e-ecda-431c-be7b-3d4410ef3688)
 </p>
 <!--END_SECTION:waka-->
 
