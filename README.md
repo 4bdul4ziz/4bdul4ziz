@@ -96,7 +96,7 @@
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=auto align="center" alt="2"></td>
    </tr>
 </table>
 <table>
@@ -118,8 +118,12 @@
 <p align="center"><img height = "30" src="https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge"/>
 </p>
 <!--END_SECTION:waka-->
+<!----- GitHub Repo Stuff - Abdul  ------>
 
- <!----- GitHub Stats - Abdul  ------>
+https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical
+
+<!----- GitHub Repo Stuff - Abdul  ------>
+<!----- GitHub Stats - Abdul  ------>
 
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="5000px">
 <p align="center">Enjoy your stay!</p>
