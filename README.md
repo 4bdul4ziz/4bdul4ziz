@@ -123,8 +123,11 @@
   <tr>
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>      
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=HADES&cache_seconds=60&theme=radical" display=block height=auto>      
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=bird-bot-discord&cache_seconds=60&theme=radical" display=block height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=musicality-bot&cache_seconds=60&theme=radical" display=block height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=Uni-programs&cache_seconds=60&theme=radical" display=block height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=Send-help&cache_seconds=60&theme=radical" display=block height=auto>
     </p>
   </tr>
 </table>
