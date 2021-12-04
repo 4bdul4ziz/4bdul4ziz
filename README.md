@@ -122,9 +122,9 @@
 <table>
   <tr>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>      
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>      
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto>
     </p>
   </tr>
 </table>
