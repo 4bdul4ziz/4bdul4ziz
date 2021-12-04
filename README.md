@@ -110,7 +110,7 @@
 </table>
 <table> 
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai"  display=block width=125% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 
@@ -119,9 +119,15 @@
 </p>
 <!--END_SECTION:waka-->
 <!----- GitHub Repo Stuff - Abdul  ------>
-
-https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical
-
+<table>
+  <tr>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>      
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block width=100% height=auto>
+    </p>
+  </tr>
+</table>
 <!----- GitHub Repo Stuff - Abdul  ------>
 <!----- GitHub Stats - Abdul  ------>
 
