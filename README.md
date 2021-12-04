@@ -110,7 +110,7 @@
 </table>
 <table> 
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai&cache_seconds=60"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 
