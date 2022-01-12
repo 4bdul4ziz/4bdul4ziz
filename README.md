@@ -56,7 +56,7 @@
 <p align="center">
   
 <a href="https://discord.com/channels/@me/729424807296499822">
- <img height="30" src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
+ <img height="30" src="https://img.shields.io/badge/-Unicorn✨#9779-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
 </a>
 <a href="mailto: bb.abdulaziz@gmail.com">
  <img height="30" src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
