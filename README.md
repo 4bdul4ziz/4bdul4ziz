@@ -96,7 +96,7 @@
 <table> 
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=200 alt="1"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook, PostScript"  display=block height=200 align="center" alt="2"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Jupyter%20Notebook, PostScript, Assembly"  display=block height=200 align="center" alt="2"></td>
    </tr>
 </table>
 <table>
