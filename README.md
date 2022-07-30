@@ -5,7 +5,7 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/4bdul4ziz/4bdul4ziz"/> 
+ <img src="https://visitor-badges.glitch.me?username=4bdul4ziz"/> 
  <img src="https://badges.pufler.dev/repos/4bdul4ziz"/>
  <img src="https://badges.pufler.dev/commits/yearly/4bdul4ziz" />
 
