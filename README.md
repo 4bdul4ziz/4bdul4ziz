@@ -134,5 +134,5 @@
 <!----- GitHub Repo Stuff - Abdul  ------>
 <!----- GitHub Stats - Abdul  ------>
 </p align="center">
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif">
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="auto" height="auto">
 <p align="center">Enjoy your stay!</p>
