@@ -5,7 +5,7 @@
 
 <p align="center">
  
- ![Visitor Badge](https://visitor-badges.glitch.me?username=4bdul4ziz) "> 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=4bdul4ziz&left_color=red&right_color=green&left_text=Visitors)
  <img src="https://badges.pufler.dev/repos/4bdul4ziz"/>
  <img src="https://badges.pufler.dev/commits/yearly/4bdul4ziz" />
 
