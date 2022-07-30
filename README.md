@@ -5,7 +5,7 @@
 
 <p align="center">
  
- <img src="https://visitor-badges.glitch.me?username=4bdul4ziz"/> 
+ ![Visitor Badge](https://visitor-badges.glitch.me?username=YOUR_USERNAME&repo=YOUR_REPO_ID) "> 
  <img src="https://badges.pufler.dev/repos/4bdul4ziz"/>
  <img src="https://badges.pufler.dev/commits/yearly/4bdul4ziz" />
 
