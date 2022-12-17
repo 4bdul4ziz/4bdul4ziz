@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<a href="https://abdul-aziz.tech/"><img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/AbdulAziz.png" /></a>
+<a href="https://4bdul4ziz.github.io"><img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/AbdulAziz.png" /></a>
 
 <p align="center">
  
