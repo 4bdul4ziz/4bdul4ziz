@@ -94,8 +94,8 @@
   </tr>
 </table>
 <table> 
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=200 alt="1"></td>
+  <!-- <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=4bdul4ziz&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=200 alt="1"></td> -->
   </tr>
 </table>
     <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4bdul4ziz&theme=radical&layout=compact&hide=Hack, PostScript,Assembly"  display=block width=100% height=200 align="center" alt="2"></td> -->
