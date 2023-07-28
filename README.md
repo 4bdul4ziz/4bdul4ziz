@@ -19,7 +19,7 @@
 
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop1.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop1.gif" width="60"></h2>
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header.png" />
 
 <p align="center">
