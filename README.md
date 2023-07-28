@@ -13,14 +13,14 @@
 
 <p align="center">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat1.svg"/></a>
 
-  I'm 20 years old and a pre-final undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
+  20 y/o Computer Science Engineering student @ VIT Uni 🎓. Associate Software Developer @ Bitnine Global Inc, AI & Robotics enthusiast, Backend Developer 💡. Passionate about tech, reading, photography, problem-solving, & connecting with people 👨🏻‍💻. Navigating Uni waters 🌊. Cheers! 🇸🇦✨
 
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header_.png" />
+<h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop1.gif" width="50"></h2>
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header.png" />
 
 <p align="center">
  <img height="30" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
@@ -51,7 +51,7 @@
 <img height="30" src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
-<h2 align="center">Reach Me On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Reach Me On <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/phone.gif" width="50"></h2>
 
 <p align="center">
   
@@ -71,7 +71,7 @@
 
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  My Contribution Graph <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/snake.gif" width="50">
 </h2>
  <!----- Contribution Stats - Abdul  ------>
 
@@ -81,15 +81,15 @@
  <!----- Contribution Stats - Abdul  ------>
 
 <h2 align="center">
-  My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  My GitHub Stats<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat3.gif" width="50">
 </h2>
  <!----- GitHub Stats - Abdul  ------>
 <table>
   <tr>
      <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing1.gif" width="150px">
        <!-- <img src="https://github-profile-trophy.vercel.app/?username=4bdul4ziz&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15"> -->
-       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
+       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing1.gif" width="150px">
     </p>
   </tr>
 </table>
@@ -102,9 +102,9 @@
 <table>
   <tr>
     <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat.gif" width="140px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat1.gif" width="140px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="4bdul4ziz">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat2.gif" width="160px">
     </p>
   </tr>
 </table>
@@ -134,6 +134,6 @@
 <!----- GitHub Repo Stuff - Abdul  ------>
 <!----- GitHub Stats - Abdul  ------>
 <p align="center">
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="auto" height="auto">
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer1.gif" width="auto" height="auto">
 </p>
 <p align="center">Enjoy your stay!</p>
