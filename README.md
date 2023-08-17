@@ -15,7 +15,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat1.svg"/></a>
 
-  20 y/o Computer Science Engineering student @ VIT Uni 🎓. Associate Software Developer @ Bitnine Global Inc, AI & Robotics enthusiast, Backend Developer 💡. Passionate about tech, reading, photography, problem-solving, & connecting with people 👨🏻‍💻. Navigating Uni waters 🌊. Cheers! 🇸🇦✨
+  21 y/o Computer Science Engineering student @ VIT Uni 🎓. Associate Software Developer @ Bitnine Global Inc, AI & Robotics enthusiast, Backend Developer 💡. Passionate about tech, reading, photography, problem-solving, & connecting with people 👨🏻‍💻. Navigating Uni waters 🌊. Cheers! 🇸🇦✨
 
 </p>  
 
